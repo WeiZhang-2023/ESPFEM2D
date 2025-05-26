@@ -1,4 +1,5 @@
 %--------------------------------------------------------------------------
+% Zhang W, Liu Y H, Li J H, Yuan W H. ESPFEM2D: A MATLAB 2D explicit smoothed particle finite element method code for geotechnical large deformation analysis[J]. Computational Mechanics, 2024, 74(2):467-484.
 % All copyrights reserved Zhang Wei(1), Liu Yihui(1), Yuan Weihai(2)
 % 1: South China Agricultural University, Guangzhou, China
 % 2: Hohai University, Nanjing, China
